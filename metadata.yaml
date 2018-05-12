@@ -1,0 +1,40 @@
+_repo: The-Daughter-of-the-Commandant_13511
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Milne-Home, Mary Pamela
+    gutenberg_agent_id: '5105'
+    url: http://www.gutenberg.org/2009/agents/5105
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Poushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_issued: '2004-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pugachev, Emelian Ivanovich, -1775 -- Fiction'
+- !lcsh 'Russia -- History -- Catherine II, 1762-1796 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Historical fiction'
+title: The Daughter of the Commandant
+url: http://www.gutenberg.org/ebooks/13511
